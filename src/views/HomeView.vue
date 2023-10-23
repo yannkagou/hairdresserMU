@@ -186,12 +186,6 @@
                     </div>
                     <!-- Pricing  -->
                     <div class="row">
-                        <!-- pricing img -->
-                        <div class="col-lg-6 col-md-6 col-sm-6 d-none">
-                          <div class="pricing-img">
-                              <img class="pricing-img1" src="@/assets/IMG_E7729.png" alt="">
-                          </div>
-                        </div>
                         <!-- pricing list -->
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="pricing-list">
