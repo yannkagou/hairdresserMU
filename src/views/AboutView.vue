@@ -7,7 +7,7 @@
           <div class="col-lg-6 col-md-11">
             <!-- about-img -->
             <div class="about-img">
-              <img src="@/assets/IMG_E8420.png" alt="">
+              <img src="@/assets/HQWV9777.png" alt="">
             </div>
           </div>
           <div class="col-lg-6 col-md-12">
@@ -47,21 +47,21 @@
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="@/assets/IMG_E7729.png" class="d-block w-100 team-img" alt="...">
+              <img src="@/assets/MGIJ1795.png" class="d-block w-100 team-img" alt="...">
               <div class="carousel-caption d-md-block team-caption text-center">
                 <h5>First slide label</h5>
                 <p>Some representative placeholder.</p>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="@/assets/MGIJ1795.png" class="d-block w-100" alt="...">
+              <img src="@/assets/TDTG9998.png" class="d-block w-100" alt="...">
               <div class="carousel-caption team-caption d-md-block text-center">
                 <h5>Second slide label</h5>
                 <p>Some representative placeholder.</p>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="@/assets/IMG_3921.png" class="d-block w-100" alt="...">
+              <img src="@/assets/KQDD8499.png" class="d-block w-100" alt="...">
               <div class="carousel-caption team-caption d-md-block text-center">
                 <h5>Third slide label</h5>
                 <p>Some representative placeholder.</p>

@@ -38,7 +38,7 @@
           <div class="col-lg-6 col-md-11">
             <!-- about-img -->
             <div class="about-img">
-              <img src="@/assets/IMG_E8420.png" alt="">
+              <img src="@/assets/MGIJ1795.png" alt="">
             </div>
           </div>
           <div class="col-lg-6 col-md-12">
@@ -73,7 +73,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/IMG_E7729.png" alt="...">
+                      <img src="@/assets/MHLZ0467.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Stylish Hair Cut</h4>
@@ -84,7 +84,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption active text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/IMG_3940.png" alt="...">
+                      <img src="@/assets/TDTG9998.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Body Massege</h4>
@@ -95,7 +95,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/DSME4515.png" alt="...">
+                      <img src="@/assets/TMZX0632.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Breard Style</h4>
@@ -106,7 +106,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/IMG_3968.png" alt="...">
+                      <img src="@/assets/PBKK5683.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Breard Style</h4>
@@ -140,21 +140,21 @@
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="@/assets/IMG_E8325.png" class="d-block w-100 team-img" alt="...">
+              <img src="@/assets/HQWV9777.png" class="d-block w-100 team-img" alt="...">
               <div class="carousel-caption d-md-block team-caption text-center">
                 <h5>First slide label</h5>
                 <p>Some representative placeholder.</p>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="@/assets/MGIJ1795.png" class="d-block w-100" alt="...">
+              <img src="@/assets/LPRA4797.png" class="d-block w-100" alt="...">
               <div class="carousel-caption team-caption d-md-block text-center">
                 <h5>Second slide label</h5>
                 <p>Some representative placeholder.</p>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="@/assets/IMG_3921.png" class="d-block w-100" alt="...">
+              <img src="@/assets/KQDD8499.png" class="d-block w-100" alt="...">
               <div class="carousel-caption team-caption d-md-block text-center">
                 <h5>Third slide label</h5>
                 <p>Some representative placeholder.</p>
@@ -331,7 +331,7 @@
             
           </div>
         </div>
-        <img src="@/assets/IMG_3938.png" class="testimonial-banner" alt="testimonial banner">
+        <img src="@/assets/QWYZ0059.png" class="testimonial-banner" alt="testimonial banner">
       </div>
     </div>
     <!-- Testimonial Details End -->
@@ -353,7 +353,7 @@
 .slider-area{
   width: 100%;
   height: 500px;
-  background-image:url(../assets/IMG_8247.png);
+  background-image:url(../assets/YFXO7937.png);
   background-repeat:no-repeat;
   background-position:top center;
   background-position: center;
@@ -520,6 +520,8 @@
   width:80%;
   margin: 0 auto;
   height: 450px;
+  object-fit: cover;
+  object-position: center;
 }
 .about-area .about-caption{
   padding-top:50px;
@@ -691,7 +693,7 @@
   opacity: 0.7;
 }
 .gallery-area .gallery-img1{
-  background-image:url(../assets/IMG_3937.png);
+  background-image:url(../assets/WMUF5666.png);
   height: 400px;
   background-repeat:no-repeat;
   background-position:top center;
@@ -700,7 +702,7 @@
 }
 
   .gallery-area .gallery-img2{
-    background-image:url(../assets/IMG_3915.png);
+    background-image:url(../assets/TDTG9998.png);
     height: 500px;
     background-repeat:no-repeat;
     background-position:top center;
@@ -709,7 +711,7 @@
   }
 
 .gallery-area .gallery-img3{
-  background-image:url(../assets/IMG_8246.png);
+  background-image:url(../assets/TMZX0632.png);
   height: 500px;
   background-repeat:no-repeat;
   background-position:top center;
@@ -726,7 +728,7 @@
   background-size:cover;
 }
 .gallery-area .gallery-img5{
-  background-image:url(../assets/IMG_3939.png);
+  background-image:url(../assets/LCHV4107.png);
   height: 430px;
   background-repeat:no-repeat;
   background-position:top center;
@@ -742,7 +744,7 @@
   background-size:cover;
 }
 .gallery-area .gallery-img7{
-  background-image:url(../assets/DSME4515.png);
+  background-image:url(../assets/QWYZ0059.png);
   height: 450px;
   background-repeat:no-repeat;
   background-position:top center;
@@ -750,7 +752,7 @@
   background-size:cover;
 }
 .gallery-area .gallery-img8{
-  background-image:url(../assets/IMG_8247.png);
+  background-image:url(../assets/LPRA4797.png);
   height: 490px;
   background-repeat:no-repeat;
   background-position:top center;
@@ -758,7 +760,7 @@
   background-size:cover;
 }
 .gallery-area .gallery-img9{
-  background-image:url(../assets/IMG_E7729.png);
+  background-image:url(../assets/KQDD8499.png);
   height: 510px;
   background-repeat:no-repeat;
   background-position:top center;
@@ -766,7 +768,7 @@
   background-size:cover;
 }
 .gallery-area .gallery-img10{
-  background-image:url(../assets/IMG_8246.png);
+  background-image:url(../assets/MHLZ0467.png);
   height: 390px;
   background-repeat:no-repeat;
   background-position:top center;
@@ -782,7 +784,7 @@
   background-size:cover;
 }
 .gallery-area .gallery-img12{
-  background-image:url(../assets/DSME4515.png);
+  background-image:url(../assets/YFXO7937.png);
   height: 480px;
   background-repeat:no-repeat;
   background-position:top center;

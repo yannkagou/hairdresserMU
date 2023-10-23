@@ -148,7 +148,7 @@
             
           </div>
         </div>
-        <img src="@/assets/IMG_3938.png" class="testimonial-banner" alt="testimonial banner">
+        <img src="@/assets/LPRA4797.png" class="testimonial-banner" alt="testimonial banner">
       </div>
     </div>
     <!-- Testimonial Details End -->

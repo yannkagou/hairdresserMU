@@ -17,7 +17,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/IMG_E7729.png" alt="...">
+                      <img src="@/assets/PBKK5683.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Stylish Hair Cut</h4>
@@ -28,7 +28,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption active text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/IMG_3968.png" alt="...">
+                      <img src="@/assets/TMZX0632.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Body Massege</h4>
@@ -39,7 +39,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/IMG_3940.png" alt="...">
+                      <img src="@/assets/TDTG9998.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Breard Style</h4>
@@ -50,7 +50,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-caption text-center mb-30">
                     <div class="service-icon">
-                      <img src="@/assets/DSME4515.png" alt="...">
+                      <img src="@/assets/MHLZ0467.png" alt="...">
                     </div> 
                     <div class="service-cap">
                         <h4>Breard Style</h4>
