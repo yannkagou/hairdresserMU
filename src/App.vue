@@ -49,8 +49,8 @@
                                 <div class="footer-tittle">
                                     <h4>Location </h4>
                                     <ul>
-                                        <li><a href="#">Yaounde Ecole des Postes</a></li>
-                                        <li><a href="#"> Yaounde Essos</a></li>
+                                        <li><a target="_blank" href=" https://www.google.com/maps/place/Neptune+Ecole+de+Postes+et+T%C3%A9l%C3%A9communication/@3.8516119,11.4966055,17z/data=!3m1!4b1!4m6!3m5!1s0x108bcfbe231376e7:0x3c753529d1e0369b!8m2!3d3.8516066!4d11.5014764!16s%2Fg%2F11g6rkrq0h?hl=fr&entry=ttu">Yaounde Ecole des Postes</a></li>
+                                        <li><a target="_blank" href="https://www.google.com/maps/search/essos+yaound%C3%A9/@3.8669586,11.5146749,12z/data=!3m1!4b1?hl=fr&entry=ttu"> Yaounde Essos</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -60,8 +60,8 @@
                                 <div class="footer-tittle">
                                     <h4>Explore</h4>
                                     <ul>
-                                        <li><a href="#">Portfolio</a></li>
-                                        <li><a href="#">About</a></li>
+                                      <li><RouterLink to="/portfolio">Portfolio</RouterLink></li>
+                                        <li><RouterLink to="/about">About</RouterLink></li>
                                     </ul>
                                 </div>
                             </div>
