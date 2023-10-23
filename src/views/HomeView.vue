@@ -670,12 +670,6 @@
   font-weight:400;
   font-size:16px;
 }
-.best-pricing .pricing-img{
-  width: 100%;
-}
-.best-pricing .pricing-img .pricing-img1{
-  width:100%;
-}
 
 .gallery-area .gallery-img{
   margin: 10px 0;
@@ -897,7 +891,7 @@
 }
 .buttons{
     display: flex;
-    margin-top: 50px;
+    margin-top: 50px !important;
 
 }
 .buttons button{
@@ -908,7 +902,7 @@
     align-items: center;
     -webkit-box-pack: center;
     justify-content: center;
-    bottom: -20px;
+    bottom: -20px !important;
     z-index: 4;
     background: rgb(255, 255, 255) !important;
     color: #aba7a7 !important;
